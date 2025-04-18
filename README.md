@@ -102,7 +102,3 @@ Click below to launch the project **without any installation**:
 
 This project is licensed under the MIT License.
 ```
-
----
-
-Let me know if you want to link your blog post at the end, or if you'd like to include example screenshots in the `README` too. You're absolutely Binder-proof now, and your project looks production-level.
