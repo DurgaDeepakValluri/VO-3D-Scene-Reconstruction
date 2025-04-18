@@ -4,8 +4,11 @@ channels:
 dependencies:
   - python=3.8
   - numpy
+  - pandas
   - matplotlib
   - opencv
   - open3d
   - ipykernel
   - notebook
+  - ipywidgets
+  - ipython
